@@ -3,19 +3,13 @@ Learn Git and GitHub without any code!
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
 
-potatonc
 /
-ScriptAutoInstallPotato
 Code
 Issues
 Pull requests
 Actions
 Projects
 Wiki
-Security
-Insights
-ScriptAutoInstallPotato/menu/profile.sh
-@potatonc
 potatonc Add files via upload
  1 contributor
 34 lines (32 sloc)  1.87 KB
